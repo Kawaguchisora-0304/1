@@ -1,4 +1,4 @@
-for num in range(1,101):
+for num in range(1,201):
     if num % 3 == 0 and num % 15 != 0:
         print("勉強したい")
     elif num % 5 == 0 and num % 15 != 0:
